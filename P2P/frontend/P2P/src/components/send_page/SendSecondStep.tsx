@@ -105,7 +105,7 @@ function SendSecondStep({ selectedNetwork }: NetworkProps) {
         setRoomURL(roomURL)
 
         //connecting to socket (server.js)
-        const socket = new WebSocket(`https://p2p-pvqi.onrender.com/`)//server url (change it to node server url)
+        const socket = new WebSocket(`wss://p2p-pvqi.onrender.com/`)//server url (change it to node server url)
         socketRef.current = socket //ref for socket
 
         let isConnected: boolean = false
