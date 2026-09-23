@@ -148,7 +148,7 @@ function HomePage({ selectedPage: onPageChange}: HomePagesProps) {
                             <h3 className='text-center text-font-sans text-xl m-2 max-w-[80ch]'>{t('home.subHeader5')}</h3>
                             <a 
                                 target='_blank'
-                                href=""
+                                href="https://github.com/Avenirox/P2P-File-transfer.git"
                                 className='py-2 px-4 bg-p2p-secondary/40 rounded-2xl cursor-pointer hover:bg-p2p-secondary/50 hover:shadow-[0_0_10px_rgba(0,0,0,0.3)] mt-4 dark:text-black dark:bg-p2p-secondary dark:hover:bg-p2p-primary transition-bg-shadow duration-300'>
                                 {t('home.openSource')}
                             </a>

@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { useLanguage } from './locales/LoginContext'
 import { Route, Routes, Navigate, useLocation } from 'react-router-dom'
+import { Analytics } from '@vercel/analytics/react'
 import Home from './pages/Home'
 import './index.css'
 import Send from './pages/Send'
@@ -18,6 +19,7 @@ const ParameterNavigator = () => {
 
 function App() {
   const {t, setLanguage} = useLanguage()
+  //SEO
   useEffect(() => {
     let metaDescElement: HTMLMetaElement | null = document.querySelector('meta[name="description"]')
 
@@ -50,6 +52,7 @@ function App() {
           <Route path='*' element={<ParameterNavigator />}/>
         </Route>
       </Routes>
+      <Analytics />
     </>
   )
 }
