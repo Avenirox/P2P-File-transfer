@@ -230,7 +230,7 @@ function HomePage({ selectedPage: onPageChange}: HomePagesProps) {
                                     </a>
                                     <a
                                         target='_blank'
-                                        href=''
+                                        href='https://github.com/Avenirox/P2P-File-transfer.git'
                                     >
                                         <img 
                                             src={Github} 
