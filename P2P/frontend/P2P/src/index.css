@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+
+@theme {
+    --color-p2p-primary: #3b82f6;    /* Main blue */
+    --color-p2p-secondary: #60a5fa;  /* Light accent */
+    --color-p2p-dark: #1e293b;       /* Dark for text */
+    --color-p2p-bg: #f8fafc;    /* Blue-White for backgrounds */
+    --color-p2p-surface: #ffffff; /* White for panels and sections */
+};
+
+@custom-variant dark (&:where(.dark, .dark *));

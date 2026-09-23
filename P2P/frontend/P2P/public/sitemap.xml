@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org">
+<!--HOME PAGE-->
+    <url>
+        <loc>https://LINK.com</loc>
+        <lastmod>DATA OSTATNIEJ MODYFIKACJI</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+<!--SEND PAGE-->
+    <url>
+        <loc>https://LINK.com</loc>
+        <lastmod>DATA OSTATNIEJ MODYFIKACJI</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+</urlset>
