@@ -61,7 +61,9 @@ This project is **open source** and anyone is welcome to **download, study, and 
      ```
      *(Note: If you change the `.env` configuration later, remember to restart the Node server by stopping it and running `node server.js` again. React restarts automatically).*
 
-4. I hope it worked out! Have fun using the program! 🎉
+4. **Its fully recommended to use a cloudflare tunnel for node and react gives you a secure https link and new node and react link**
+
+5. I hope it worked out! Have fun using the program! 🎉
 
 ## 📄 License
 This project is licensed under the **GNU GPLv3 License** - see the [LICENSE](LICENSE/GNUGPLv3License.txt) file for details.

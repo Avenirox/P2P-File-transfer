@@ -61,7 +61,9 @@ Projekt jest **otwarto źródłowy** każdy może go używać do **pobierania i 
      ```
      *(Note: Jeśli zmienisz konfiguracje `.env` kiedyś, pamietaj o restarcie serwera Node poprzez zatrzymanie go i uruchomienie `node server.js` jeszcze raz. React aktualizuje się automatycznie).*
 
-4. Mam nadzieję że sie udalo i życze miłej zabawy! 🎉
+4. **Zalecamy używanie cloudflare tunnela dla node i reat aby otrzymać bezpieczny link https oraz nowe publiczne linki do react i node** 
+
+5. Mam nadzieję że sie udalo i życze miłej zabawy! 🎉
 
 ## 📄 Licencja
 Projekt posiada licencje **GNU GPLv3 License** - zobacz licencje [LICENSE](LICENSE/GNUGPLv3License.txt) dla dodatkowych informacji.
