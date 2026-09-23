@@ -68,7 +68,7 @@ This project is **open source** and anyone is welcome to **download, study, and 
 5. I hope it worked out! Have fun using the program! 🎉
 
 ## 📄 License
-This project is licensed under the **GNU GPLv3 License** - see the [LICENSE](LICENSE/GNUGPLv3License.txt) file for details.
+This project is licensed under the **GNU GPLv3 License** - see the [LICENSE](DOCS/LICENSE/GNUGPLv3License.txt) file for details.
 Copyright © 2026 AveniroxTM. The project is available as open-source under license.
 
 ---
