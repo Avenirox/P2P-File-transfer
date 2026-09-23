@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: ZMIEN NA LINK DO HOSTOWANEJ STRONY REACT
+Sitemap: https://p2p-tranfer-files.vercel.app/sitemap.xml
