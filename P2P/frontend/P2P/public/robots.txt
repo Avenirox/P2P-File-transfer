@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://p2p-tranfer-files.vercel.app/SiteMap.xml
+Sitemap: https://p2p-transfer-files.vercel.app/SiteMap.xml
